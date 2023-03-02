@@ -1,0 +1,11 @@
+p :hover{ color: red;
+
+}
+
+p:active {color: green;
+background-color: black;
+font-size: 30px;}
+
+p:link {color: red;}
+
+p:visited {color: aqua;}
